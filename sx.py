@@ -32,7 +32,7 @@ def main(stdscr):
 
         for i in range(MIN_NUM, MAX_NUM):
 
-	    if n == 0:
+            if n == 0:
                 break
 
             n =  n - 1
@@ -80,7 +80,7 @@ def main(stdscr):
 #1st-2
         for i in range(1, 5):
 
-	    if n == 0:
+            if n == 0:
                 break
 
             n =  n - 1
